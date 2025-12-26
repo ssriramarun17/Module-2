@@ -26,3 +26,4 @@ print("modulo is", result(a, b))
 <img width="824" height="365" alt="Screenshot 2025-12-26 205609" src="https://github.com/user-attachments/assets/b5a09e92-c722-4547-98c4-700f954d7663" />
 
 ## Result
+The program has been executed successfully
